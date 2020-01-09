@@ -34,7 +34,6 @@ ki4.login(token="ENB7A8MsF1cmWyp5Yx6b.O3gM/8W+lhDUWsy/dxrCUW.iIH8lQO1JI551wXSKZY
 ki4.loginResult()
 ki5 = PRANKBOTS.LINE()
 ki5.login(token="ENrv04ZOMbTxu5fn1ZU3.qa8KEI1sb+WqBQ13OoKAiW.P8fq8Y2HaZsm4lbW6eEAHnwYql1KUiNRk+xf5MIoDyE=")
-print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage="""(╣••𝓕𝓪𝓷𝓽𝓪𝓼𝔂𝓢𝓽𝓾𝓭𝓲𝓸••╣)
