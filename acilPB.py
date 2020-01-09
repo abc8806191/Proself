@@ -33,7 +33,7 @@ ki4 = PRANKBOTS.LINE()
 ki4.login(token="Er8h61l1jTFFUVf3e13a.NSj60VJy3+WTBIuVnvXHwG.wkwr4TT7v1FWJv4KfHc/Q2yDXxx7deHxXvq65XHjCJg=")
 ki4.loginResult()
 ki5 = PRANKBOTS.LINE()
-ki5.login(token="ErzbXhPnCAsXlc6MA7i3.duo4C3Drdvi2rzJhZXuAaW.mkuqhMhfYByBeUBHcwNeGwpTRoaBxBFv5pSbT/yqcMo=")
+ki5.login(token="EN99M3oJ0nh1wVwXYuD7.TVNvnXpfHP8nEoCF6/e4nW.9s3kxlgfX1s31BHd5LluZfheC+geq4+8gnsI8Qa6OyE=")
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -410,8 +410,8 @@ ki3mid = ki3.getProfile().mid
 ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
 Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid]
-admsa = "ucd84031744997951cdee018db951aea3" #MID SELFBOT
-PRANKBOT = ["ufce863f62f40706c01fa4a3c3c4cb096"] #MID OWNER
+admsa = "ub6f9d53713c5869f0d78e71febe13837" #MID SELFBOT
+PRANKBOT = ["ub6f9d53713c5869f0d78e71febe13837"] #MID OWNER
 wait = {
     'contact':False,
     'autoJoin':True,
